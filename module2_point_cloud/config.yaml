@@ -1,0 +1,51 @@
+# Challenge 2: Point Cloud Colorization Configuration
+
+# Camera intrinsics (ZED camera)
+camera:
+  fx: 527.297
+  fy: 527.297
+  cx: 658.821
+  cy: 372.258
+  width: 1280
+  height: 720
+
+# LiDAR to Camera transformation
+# Camera frame: X=right, Y=down, Z=forward
+# LiDAR frame: X=forward, Y=left, Z=up
+transform:
+  lidar_to_camera:
+    # Rotation: 90° around Z, then -90° around X
+    # Translation: camera is ~0.1m forward, 0.05m up from LiDAR
+    tx: 0.1   # meters
+    ty: 0.0
+    tz: 0.05
+
+# Point cloud processing
+processing:
+  # Voxel downsampling resolution (meters)
+  voxel_size: 0.01
+  
+  # Batch processing to manage memory
+  batch_size: 100  # frames per batch
+  
+  # Progress reporting interval
+  progress_interval: 100  # frames
+
+# Paths
+paths:
+  workspace: ".."
+  synchronized_data: "../synchronized_data"
+  odometry: "../scan_to_map_odom"
+  output: "../results/challenge2"
+
+# Surveys to process
+surveys:
+  - bathroom
+  - office
+
+# Output format
+output:
+  format: "ply"  # PLY binary format
+  binary: true
+  compressed: false
+

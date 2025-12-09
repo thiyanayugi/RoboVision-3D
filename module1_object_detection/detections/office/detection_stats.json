@@ -1,0 +1,14 @@
+{
+  "survey": "office",
+  "total_frames": 3585,
+  "frames_with_detections": 2722,
+  "total_detections": 8676,
+  "detections_by_class": {
+    "chair": 7249,
+    "shelf": 549,
+    "couch": 681,
+    "table": 197
+  },
+  "model": "yolov8x.pt",
+  "confidence_threshold": 0.25
+}

@@ -1,0 +1,8922 @@
+[
+  {
+    "timestamp": 1760971642759860101,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971643000118054,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971643169560009,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971643346684119,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971643530451998,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.2759241759777069,
+        "bbox": [
+          0,
+          309,
+          66,
+          454
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971643804712183,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971644089933097,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971644261909434,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971644400944032,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971644571520591,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971644765109025,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971645191989984,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971645343352962,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971645487082038,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971645722619616,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971645960599517,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971646145477805,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971646370636801,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971646555558159,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971646908016463,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971647070524575,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971647222925519,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971647528658854,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971647689702518,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971647830100316,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648020139876,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648224633513,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648492044162,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648632671900,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648816345757,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971648978148458,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971649167294454,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971649334039461,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971649502336944,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971649700588103,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971649868323435,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971650035141047,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971650216465628,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971650372841174,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971650540353826,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971650829097889,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971651000023925,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971651173713580,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971651330382008,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971651679546902,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971651831190849,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652008783275,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652194571270,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652330468683,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652533174230,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652699753799,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971652952820530,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971653146503501,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971653303356141,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971653464745763,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971653771085002,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971653902405562,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971654039593924,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971654359137788,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971654546000387,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971654719139853,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971654879366005,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971655045059081,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971655197052894,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971655332054855,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971655653633089,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971655844721642,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656015144395,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656171653108,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656366811462,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656523488489,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656691220415,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971656851248748,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971657027641793,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971657203102270,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971657342749876,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971657657486936,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971657832140793,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971658134390087,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971658404424814,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971658572020231,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971658715130882,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971658858355832,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659060987704,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659253292930,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659420518730,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659564815439,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659759642505,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971659925675525,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660090099560,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660257231474,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660401457400,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660571724150,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660742921867,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971660870688815,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971661206642837,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971661378818812,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971661542592281,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971661710768851,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971661875136598,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662023719000,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662221147768,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662385544792,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662558776814,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662693484601,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662838938758,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971662979700227,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971663187565680,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971663395682128,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971663543506546,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971663734941626,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971663915170455,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971664025068210,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971664247934239,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971664390219382,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971664592554134,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971664865790397,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665020994451,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665208043707,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665380661831,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665534417180,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665704737679,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971665862746694,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971666171844360,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971666337879736,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971666613837535,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971666783846749,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971666932086951,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971667133985845,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971667406771111,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971667575879884,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971667740257476,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971667925560502,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971668211380959,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971668374947354,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971668677467225,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971668845416528,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971669019109926,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971669335008909,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971669511561249,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971669697120516,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971669869511250,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971670036531376,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971670343567648,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971670507113207,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971670676790205,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971670852876165,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971671023325608,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971671195155852,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971671487489640,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971671659825334,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971671936618537,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971672205413631,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971672386423463,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971672559774469,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971672734742938,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971672931028152,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971673205688357,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971673379673797,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971673539325765,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971673699070209,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971673855902144,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674068300042,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674207658932,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674348340835,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674542884682,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674728652697,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971674913394614,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971675074001802,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971675228542059,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971675404330551,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971675574487582,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971675734990773,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676028421684,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676188227368,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676329737167,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676469126837,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676654268828,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971676856522758,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971677048782254,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971677343235065,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971677516827651,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971677655951635,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971677909034809,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971678228048023,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971678511580584,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971678671489076,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971678841486717,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971679136955606,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971679470481382,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971679640741154,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971679937413283,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971680112521445,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971680270323180,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971680472192319,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971680770972895,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971681059270995,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971681225683927,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971681514100644,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971681685481546,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971681860107678,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682107043276,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682305153378,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682464558142,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682633015205,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682804900083,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971682976408945,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971683249443561,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971683547460290,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971683716317429,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971683915417437,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971684048324794,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971684285917060,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971684516969938,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971684807767467,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971685096209293,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971685270974835,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971685577862168,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971685743267619,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971686033951517,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971686326033847,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971686484721964,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971686633336454,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971686953208001,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971687138824350,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971687312338394,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971687460166805,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971687724254802,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971687898571114,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971688038649600,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971688285964651,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971688602840166,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971688784963198,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971688979832313,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971689174189578,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971689383239719,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971689768485060,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690005744880,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690190558794,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690407725657,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690545603214,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690724111396,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971690890972932,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971691102009541,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971691398467947,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971691593119275,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971691932424653,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971692136563041,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971692442841867,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971692758918525,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971693061307637,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971693390239714,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971693674332749,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971693832346198,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971694102247325,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971694265565014,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971694548354328,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971694685754525,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971694886708859,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971695040459137,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971695256446810,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971695450717058,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971695675672264,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971696016506936,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971696186802420,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971696378135006,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971696676988809,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971696870575150,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971697036216890,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971697180536452,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971697373828628,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971697585964630,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971697741316879,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971698062355281,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971698227914878,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971698414599766,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971698707862902,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699023210293,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699311444788,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699443639164,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699575740904,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699721376083,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971699957106091,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971700144968939,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971700304230608,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971700541951052,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971700744986624,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971700981385784,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971701258777913,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971701537092401,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971701728226970,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971702010559901,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971702286100783,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971702629670507,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971702815952781,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971703001084323,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971703162675546,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971703492432897,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971703694749359,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971703853851319,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971704191813962,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971704497453291,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971704659633126,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971704839755482,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971705069532785,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971705382354028,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971705709501378,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971706002319201,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971706285733573,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971706436056371,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971706666500168,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971706949539549,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971707241964713,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971707416056743,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971707591975314,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971707806812868,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971708148293260,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971708318561076,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971708497568883,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971708672966708,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971708850724811,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971709002883395,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971709252074341,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971709551955610,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971709739670606,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971709926256981,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971710109006024,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971710419691891,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971710602332971,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971710894383358,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971711076524491,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971711350871673,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971711641687393,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971711920932275,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971712116496512,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971712268003248,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971712569839364,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971712745405655,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971712930297316,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971713106934566,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971713290834782,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971713489496190,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971713656824994,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971713981026050,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971714268353631,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971714446451068,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971714761494998,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971714939928740,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971715226487105,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971715508339730,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971715928285195,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716109755437,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716289371778,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716452482240,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716640056653,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716814034944,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971716961685720,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971717199016862,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971717521120720,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971717829514669,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971718115700916,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971718302441027,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971718446428413,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971718762687540,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971718943895678,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971719102459428,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971719331253543,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971719502296473,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971719659085200,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971719901704514,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971720186233357,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971720340334843,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971720558879210,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971720720085272,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971720913307903,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971721225513637,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971721512121582,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971721718986251,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971722030437425,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971722196470529,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971722424332071,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971722598173014,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971723077683406,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971723375715917,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971723640610695,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5529081225395203,
+        "bbox": [
+          0,
+          251,
+          167,
+          489
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971723822830074,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971724116761713,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971724296692842,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971724445972652,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971724623978172,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971724939375367,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971725244521792,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971725387502077,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971725736440537,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971725922684530,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726080978011,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726244661263,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726439586269,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726577081618,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726726866970,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971726977330905,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971727154847514,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971727309298638,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971727564851556,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971727743841761,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971728043880826,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971728350355309,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971728508568309,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971728684376897,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971728819097905,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971729185078045,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971729375176929,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971729689924730,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971729821017069,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971729974757438,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971730203120252,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971730556596825,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971730884626134,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971731064137623,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971731204727416,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971731402141453,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971731522080726,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971731709523086,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971732125871880,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971732418378984,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971732605864508,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971732774924435,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971732961447827,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971733124926534,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971733269213693,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971733526175173,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971733713487743,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971734067535032,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971734385270587,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971734671534800,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971734819213260,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971734970207411,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971735145163098,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971735380365975,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971735658663186,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4848693907260895,
+        "bbox": [
+          1147,
+          214,
+          1279,
+          440
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971735811812053,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.37804001569747925,
+        "bbox": [
+          1136,
+          202,
+          1279,
+          438
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971736096144638,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.3038708567619324,
+        "bbox": [
+          1104,
+          213,
+          1244,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971736276516654,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.2559928596019745,
+        "bbox": [
+          1085,
+          217,
+          1219,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971736489430075,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.2817961573600769,
+        "bbox": [
+          1067,
+          175,
+          1279,
+          439
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971736658860539,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.32178059220314026,
+        "bbox": [
+          1041,
+          228,
+          1161,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971736806721004,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.42554280161857605,
+        "bbox": [
+          1025,
+          230,
+          1141,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971737012585048,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.3896968364715576,
+        "bbox": [
+          1011,
+          232,
+          1125,
+          434
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971737224961979,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5901907086372375,
+        "bbox": [
+          994,
+          236,
+          1102,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971737518831471,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.49700167775154114,
+        "bbox": [
+          960,
+          246,
+          1059,
+          434
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971737690765820,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4349863827228546,
+        "bbox": [
+          953,
+          244,
+          1052,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971737867516622,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7070923447608948,
+        "bbox": [
+          933,
+          249,
+          1027,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971738139263596,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5877962112426758,
+        "bbox": [
+          906,
+          253,
+          996,
+          429
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3299628496170044,
+        "bbox": [
+          906,
+          325,
+          996,
+          429
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971738440404596,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.34259480237960815,
+        "bbox": [
+          887,
+          246,
+          973,
+          429
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3124343752861023,
+        "bbox": [
+          887,
+          324,
+          973,
+          429
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.2735816538333893,
+        "bbox": [
+          887,
+          224,
+          1046,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971738584359443,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6669948101043701,
+        "bbox": [
+          878,
+          325,
+          962,
+          428
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.31109070777893066,
+        "bbox": [
+          877,
+          225,
+          1033,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971738788552936,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.55316162109375,
+        "bbox": [
+          866,
+          257,
+          950,
+          428
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.29504531621932983,
+        "bbox": [
+          867,
+          327,
+          949,
+          428
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971738964194282,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5126540064811707,
+        "bbox": [
+          851,
+          327,
+          932,
+          427
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4224073588848114,
+        "bbox": [
+          851,
+          260,
+          932,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971739112337163,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5732488036155701,
+        "bbox": [
+          837,
+          328,
+          915,
+          426
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4248836934566498,
+        "bbox": [
+          836,
+          262,
+          915,
+          425
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971739353634251,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6735842227935791,
+        "bbox": [
+          824,
+          328,
+          901,
+          428
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.2894406020641327,
+        "bbox": [
+          824,
+          265,
+          903,
+          428
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971739533781951,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.529251754283905,
+        "bbox": [
+          810,
+          264,
+          886,
+          425
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.45900627970695496,
+        "bbox": [
+          810,
+          328,
+          885,
+          425
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971739881195441,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6499385833740234,
+        "bbox": [
+          783,
+          329,
+          854,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971740166536097,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6966898441314697,
+        "bbox": [
+          762,
+          330,
+          831,
+          425
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3349665701389313,
+        "bbox": [
+          1223,
+          186,
+          1279,
+          494
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971740390134337,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7572644948959351,
+        "bbox": [
+          754,
+          330,
+          822,
+          429
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4739384353160858,
+        "bbox": [
+          1205,
+          176,
+          1279,
+          501
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971740531487828,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7573431134223938,
+        "bbox": [
+          743,
+          330,
+          810,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971740730497744,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8308857083320618,
+        "bbox": [
+          730,
+          330,
+          796,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971740930490718,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8499013781547546,
+        "bbox": [
+          716,
+          330,
+          782,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971741126731958,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8448033332824707,
+        "bbox": [
+          703,
+          330,
+          767,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971741409337183,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8062347173690796,
+        "bbox": [
+          681,
+          330,
+          744,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971741688194577,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.805471658706665,
+        "bbox": [
+          663,
+          329,
+          724,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971741985933898,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8303372263908386,
+        "bbox": [
+          643,
+          329,
+          704,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971742282996480,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.858790397644043,
+        "bbox": [
+          642,
+          329,
+          704,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971742459999326,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8520721793174744,
+        "bbox": [
+          643,
+          330,
+          704,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971742636100454,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8712218403816223,
+        "bbox": [
+          642,
+          329,
+          704,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971742817885035,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8649964928627014,
+        "bbox": [
+          643,
+          329,
+          704,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971743118464768,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8569468259811401,
+        "bbox": [
+          642,
+          329,
+          704,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971743319650579,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8459538817405701,
+        "bbox": [
+          642,
+          329,
+          704,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971743590299413,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8543410897254944,
+        "bbox": [
+          643,
+          330,
+          703,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971743894198769,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8558361530303955,
+        "bbox": [
+          643,
+          331,
+          703,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971744138624504,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8581750392913818,
+        "bbox": [
+          643,
+          331,
+          701,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971744335503084,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.849774181842804,
+        "bbox": [
+          644,
+          331,
+          703,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971744531699104,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8470038175582886,
+        "bbox": [
+          643,
+          333,
+          702,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971744830493761,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7987276911735535,
+        "bbox": [
+          629,
+          330,
+          688,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745004223825,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7273862361907959,
+        "bbox": [
+          619,
+          323,
+          677,
+          419
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745175364277,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8426955938339233,
+        "bbox": [
+          611,
+          330,
+          668,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745334479995,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7943171858787537,
+        "bbox": [
+          599,
+          330,
+          655,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745466471280,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8229994773864746,
+        "bbox": [
+          588,
+          329,
+          644,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745655021438,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8435267806053162,
+        "bbox": [
+          580,
+          329,
+          636,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971745848147995,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6432472467422485,
+        "bbox": [
+          567,
+          330,
+          622,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971746186555537,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8035985231399536,
+        "bbox": [
+          541,
+          329,
+          595,
+          423
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.2527540624141693,
+        "bbox": [
+          541,
+          238,
+          662,
+          425
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971746377635113,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6776142716407776,
+        "bbox": [
+          535,
+          328,
+          590,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971746681841935,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971746847067326,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6885451674461365,
+        "bbox": [
+          497,
+          328,
+          552,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971747029351301,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.758531391620636,
+        "bbox": [
+          490,
+          329,
+          545,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971747364953142,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6534608006477356,
+        "bbox": [
+          468,
+          326,
+          523,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971747690287769,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6142551898956299,
+        "bbox": [
+          440,
+          326,
+          495,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971747923602929,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6101800799369812,
+        "bbox": [
+          430,
+          324,
+          486,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971748227639033,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6748868823051453,
+        "bbox": [
+          400,
+          324,
+          458,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971748525056846,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7660881876945496,
+        "bbox": [
+          381,
+          324,
+          439,
+          417
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.36166292428970337,
+        "bbox": [
+          380,
+          235,
+          515,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971748711365468,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5581802725791931,
+        "bbox": [
+          368,
+          324,
+          428,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971748993036636,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7056524157524109,
+        "bbox": [
+          345,
+          322,
+          406,
+          416
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4636639952659607,
+        "bbox": [
+          345,
+          228,
+          484,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971749310301960,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6598145365715027,
+        "bbox": [
+          321,
+          322,
+          384,
+          414
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.26304858922958374,
+        "bbox": [
+          321,
+          230,
+          462,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971749598350180,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7164040207862854,
+        "bbox": [
+          295,
+          320,
+          360,
+          415
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4410260319709778,
+        "bbox": [
+          294,
+          233,
+          440,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971749776878545,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6853742599487305,
+        "bbox": [
+          281,
+          318,
+          347,
+          413
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4753521680831909,
+        "bbox": [
+          280,
+          236,
+          431,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971749959489765,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6433539986610413,
+        "bbox": [
+          262,
+          320,
+          330,
+          413
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.4782732129096985,
+        "bbox": [
+          260,
+          238,
+          415,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971750131050927,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6155673861503601,
+        "bbox": [
+          250,
+          319,
+          320,
+          417
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3394671082496643,
+        "bbox": [
+          249,
+          237,
+          405,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971750427714752,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6936906576156616,
+        "bbox": [
+          219,
+          314,
+          292,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971750604557785,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6562994718551636,
+        "bbox": [
+          201,
+          314,
+          276,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971750786896279,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6255748271942139,
+        "bbox": [
+          185,
+          313,
+          261,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971750944733648,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.43048587441444397,
+        "bbox": [
+          166,
+          312,
+          245,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971751279622869,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6118446588516235,
+        "bbox": [
+          122,
+          308,
+          210,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971751502274857,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5480069518089294,
+        "bbox": [
+          104,
+          306,
+          193,
+          409
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971751665866427,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5391521453857422,
+        "bbox": [
+          80,
+          305,
+          174,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971751847234532,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7918763756752014,
+        "bbox": [
+          59,
+          306,
+          157,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971752039540539,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6449013352394104,
+        "bbox": [
+          42,
+          304,
+          142,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971752316118841,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971752443416443,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971752783203838,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971753069229869,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971753214321509,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971753378131722,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971753577816015,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971753779246724,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971754089885457,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971754245195478,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971754389895487,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971754668657908,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971754800263536,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971755125710680,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971755309097567,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971755604736465,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971755779987946,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971755956252213,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.29848647117614746,
+        "bbox": [
+          0,
+          330,
+          73,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971756277487832,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.422221839427948,
+        "bbox": [
+          38,
+          305,
+          157,
+          412
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.2916553020477295,
+        "bbox": [
+          39,
+          220,
+          240,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971756563893164,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4187580943107605,
+        "bbox": [
+          87,
+          228,
+          273,
+          416
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3769661486148834,
+        "bbox": [
+          86,
+          310,
+          196,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971756738592284,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7285208106040955,
+        "bbox": [
+          110,
+          229,
+          290,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971757032397663,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7759720087051392,
+        "bbox": [
+          155,
+          236,
+          321,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971757238678608,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.34639233350753784,
+        "bbox": [
+          171,
+          240,
+          334,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971757537288054,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6735298037528992,
+        "bbox": [
+          216,
+          246,
+          368,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971757717687682,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.837218165397644,
+        "bbox": [
+          233,
+          246,
+          379,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971758016961097,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7776630520820618,
+        "bbox": [
+          273,
+          253,
+          411,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971758202931797,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5883485078811646,
+        "bbox": [
+          284,
+          249,
+          423,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971758502965367,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.39551934599876404,
+        "bbox": [
+          319,
+          256,
+          447,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971758682051517,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5660948157310486,
+        "bbox": [
+          333,
+          256,
+          457,
+          414
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3249891996383667,
+        "bbox": [
+          333,
+          331,
+          413,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971758841878223,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7641345262527466,
+        "bbox": [
+          352,
+          256,
+          473,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759019048844,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7620517015457153,
+        "bbox": [
+          361,
+          259,
+          481,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759157993684,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.846703827381134,
+        "bbox": [
+          377,
+          262,
+          494,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759423267395,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5043204426765442,
+        "bbox": [
+          400,
+          264,
+          515,
+          416
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3489009141921997,
+        "bbox": [
+          400,
+          332,
+          475,
+          415
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3135106563568115,
+        "bbox": [
+          400,
+          267,
+          478,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759574575896,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7953453660011292,
+        "bbox": [
+          412,
+          261,
+          524,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759770424736,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.40628936886787415,
+        "bbox": [
+          425,
+          267,
+          500,
+          413
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.34377405047416687,
+        "bbox": [
+          425,
+          262,
+          536,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971759975470502,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4371752142906189,
+        "bbox": [
+          441,
+          259,
+          550,
+          409
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971760130786179,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.861430823802948,
+        "bbox": [
+          165,
+          264,
+          280,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971760306651288,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5118901133537292,
+        "bbox": [
+          468,
+          335,
+          539,
+          413
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.425983726978302,
+        "bbox": [
+          468,
+          265,
+          575,
+          415
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3343135118484497,
+        "bbox": [
+          468,
+          270,
+          542,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971760515242074,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7589403390884399,
+        "bbox": [
+          481,
+          267,
+          585,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971760716724896,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6775888800621033,
+        "bbox": [
+          494,
+          270,
+          565,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971760879969780,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6962793469429016,
+        "bbox": [
+          512,
+          269,
+          615,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971761057956328,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6944774985313416,
+        "bbox": [
+          520,
+          274,
+          591,
+          413
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.25383567810058594,
+        "bbox": [
+          520,
+          270,
+          619,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971761221074176,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6428505778312683,
+        "bbox": [
+          532,
+          273,
+          602,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971761390627091,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7356244325637817,
+        "bbox": [
+          544,
+          270,
+          644,
+          414
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3806071877479553,
+        "bbox": [
+          545,
+          273,
+          614,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971761724082043,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6669703125953674,
+        "bbox": [
+          565,
+          270,
+          633,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971761871594394,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7345014810562134,
+        "bbox": [
+          578,
+          270,
+          676,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971762159586039,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6795228123664856,
+        "bbox": [
+          596,
+          273,
+          664,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971762507756317,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6427987217903137,
+        "bbox": [
+          615,
+          272,
+          684,
+          412
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3173998296260834,
+        "bbox": [
+          615,
+          271,
+          713,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971762821088758,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5942787528038025,
+        "bbox": [
+          638,
+          272,
+          706,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971763117173057,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6542752981185913,
+        "bbox": [
+          651,
+          274,
+          720,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971763316777815,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5841840505599976,
+        "bbox": [
+          651,
+          274,
+          720,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971763509712221,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5681241750717163,
+        "bbox": [
+          651,
+          273,
+          720,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971763791565839,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6458711624145508,
+        "bbox": [
+          651,
+          275,
+          721,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971764069714536,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6816371083259583,
+        "bbox": [
+          652,
+          275,
+          721,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971764227473744,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6067100763320923,
+        "bbox": [
+          651,
+          274,
+          720,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971764405927689,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6046649813652039,
+        "bbox": [
+          651,
+          273,
+          720,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971764581576865,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5194369554519653,
+        "bbox": [
+          652,
+          273,
+          721,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971764768670224,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.49333006143569946,
+        "bbox": [
+          652,
+          272,
+          721,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971765008805357,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6645746231079102,
+        "bbox": [
+          651,
+          275,
+          721,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971765207637027,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6440527439117432,
+        "bbox": [
+          651,
+          273,
+          721,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971765414878169,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5776913166046143,
+        "bbox": [
+          653,
+          270,
+          722,
+          409
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971765692814264,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5461063385009766,
+        "bbox": [
+          653,
+          268,
+          722,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971765865151846,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6727404594421387,
+        "bbox": [
+          654,
+          272,
+          724,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971766044495924,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7428171038627625,
+        "bbox": [
+          659,
+          270,
+          728,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971766218425112,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7593576312065125,
+        "bbox": [
+          674,
+          269,
+          745,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971766388055744,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7099003195762634,
+        "bbox": [
+          684,
+          270,
+          756,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971766694504008,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8325692415237427,
+        "bbox": [
+          704,
+          269,
+          778,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971766876444414,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6438632607460022,
+        "bbox": [
+          715,
+          268,
+          789,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971767174514051,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.570854127407074,
+        "bbox": [
+          740,
+          267,
+          816,
+          412
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971767473801679,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4724074602127075,
+        "bbox": [
+          757,
+          265,
+          836,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971767674973526,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7615623474121094,
+        "bbox": [
+          767,
+          268,
+          846,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971767982303764,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.42506420612335205,
+        "bbox": [
+          786,
+          262,
+          869,
+          414
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.2872922420501709,
+        "bbox": [
+          786,
+          337,
+          868,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971768264507593,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5671136975288391,
+        "bbox": [
+          807,
+          220,
+          894,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971768428606410,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6772385835647583,
+        "bbox": [
+          818,
+          261,
+          905,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971768602969207,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5570345520973206,
+        "bbox": [
+          829,
+          219,
+          919,
+          415
+        ]
+      },
+      {
+        "class": "toilet",
+        "confidence": 0.3203582465648651,
+        "bbox": [
+          1212,
+          240,
+          1279,
+          464
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971768787277598,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.387800931930542,
+        "bbox": [
+          843,
+          221,
+          935,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971768970733004,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4565730690956116,
+        "bbox": [
+          855,
+          219,
+          949,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971769128555530,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.549635648727417,
+        "bbox": [
+          855,
+          220,
+          949,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971769339385206,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5385220646858215,
+        "bbox": [
+          856,
+          223,
+          951,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971769604629070,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4660884141921997,
+        "bbox": [
+          858,
+          254,
+          955,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971769918042448,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7698403000831604,
+        "bbox": [
+          859,
+          254,
+          958,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971770206608702,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7202508449554443,
+        "bbox": [
+          859,
+          255,
+          959,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971770485672285,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.751827597618103,
+        "bbox": [
+          860,
+          252,
+          961,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971770768797859,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.625209629535675,
+        "bbox": [
+          860,
+          250,
+          962,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971771078626149,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5593087673187256,
+        "bbox": [
+          861,
+          249,
+          964,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971771345450832,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8245708346366882,
+        "bbox": [
+          861,
+          251,
+          965,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971771528550474,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.738757848739624,
+        "bbox": [
+          861,
+          249,
+          967,
+          414
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971771706045347,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7730123400688171,
+        "bbox": [
+          862,
+          252,
+          968,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971771902960198,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6394010186195374,
+        "bbox": [
+          863,
+          250,
+          970,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772084351628,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5742263793945312,
+        "bbox": [
+          864,
+          249,
+          971,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772241211858,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5768408179283142,
+        "bbox": [
+          865,
+          249,
+          973,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772444018694,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.526490330696106,
+        "bbox": [
+          865,
+          249,
+          974,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772607914219,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.49706634879112244,
+        "bbox": [
+          866,
+          199,
+          975,
+          419
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772766562335,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5740758180618286,
+        "bbox": [
+          866,
+          248,
+          976,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971772989585400,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7798290848731995,
+        "bbox": [
+          866,
+          246,
+          978,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971773204289739,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6245298981666565,
+        "bbox": [
+          867,
+          190,
+          979,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971773475579974,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7867659330368042,
+        "bbox": [
+          867,
+          246,
+          979,
+          417
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971773683227099,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.812224805355072,
+        "bbox": [
+          867,
+          248,
+          982,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971773936836317,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5908219218254089,
+        "bbox": [
+          868,
+          248,
+          983,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971774223231236,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.680665135383606,
+        "bbox": [
+          870,
+          247,
+          987,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971774592888527,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5293002724647522,
+        "bbox": [
+          872,
+          191,
+          992,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971774770959305,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5907883644104004,
+        "bbox": [
+          873,
+          245,
+          992,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971774923472339,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5694771409034729,
+        "bbox": [
+          874,
+          191,
+          995,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971775121232265,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5109876990318298,
+        "bbox": [
+          874,
+          190,
+          996,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971775294516028,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8519129753112793,
+        "bbox": [
+          594,
+          250,
+          697,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971775438972021,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6076936721801758,
+        "bbox": [
+          876,
+          243,
+          1000,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971775639862011,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6690007448196411,
+        "bbox": [
+          876,
+          243,
+          1001,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971775786546125,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.7935069799423218,
+        "bbox": [
+          877,
+          242,
+          1002,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776000756051,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.804306149482727,
+        "bbox": [
+          877,
+          243,
+          1004,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776297750672,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8816609382629395,
+        "bbox": [
+          879,
+          244,
+          1007,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776474213681,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8921071290969849,
+        "bbox": [
+          879,
+          244,
+          1008,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776632665544,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8756204843521118,
+        "bbox": [
+          880,
+          244,
+          1010,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776806951756,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8870795965194702,
+        "bbox": [
+          880,
+          244,
+          1011,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971776990572678,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8936553597450256,
+        "bbox": [
+          882,
+          245,
+          1014,
+          428
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971777280763831,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9028464555740356,
+        "bbox": [
+          883,
+          241,
+          1019,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971777409641205,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8896337747573853,
+        "bbox": [
+          885,
+          239,
+          1022,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971777548664771,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8989402055740356,
+        "bbox": [
+          885,
+          239,
+          1022,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971777730217754,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9066228866577148,
+        "bbox": [
+          886,
+          237,
+          1023,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971778140196359,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9004030823707581,
+        "bbox": [
+          887,
+          237,
+          1026,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971778472954076,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.898077130317688,
+        "bbox": [
+          888,
+          237,
+          1031,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971778646321287,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8931906223297119,
+        "bbox": [
+          888,
+          236,
+          1031,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971778805081166,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9006432890892029,
+        "bbox": [
+          889,
+          237,
+          1034,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971779010312168,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8953673243522644,
+        "bbox": [
+          890,
+          234,
+          1035,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971779182371822,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8998106718063354,
+        "bbox": [
+          892,
+          234,
+          1038,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971779363063368,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9068641066551208,
+        "bbox": [
+          893,
+          235,
+          1040,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971779528447583,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8970543146133423,
+        "bbox": [
+          895,
+          232,
+          1042,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971779826864531,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9054552912712097,
+        "bbox": [
+          897,
+          231,
+          1045,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971780125242152,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9182726740837097,
+        "bbox": [
+          899,
+          231,
+          1046,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971780295751187,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9287990927696228,
+        "bbox": [
+          900,
+          225,
+          1050,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971780472757652,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9298535585403442,
+        "bbox": [
+          900,
+          227,
+          1049,
+          419
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971780657160964,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9225093126296997,
+        "bbox": [
+          901,
+          227,
+          1052,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971780836813356,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9280276298522949,
+        "bbox": [
+          901,
+          226,
+          1052,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971781114346392,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9246929287910461,
+        "bbox": [
+          904,
+          227,
+          1055,
+          425
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971781412180481,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9252458214759827,
+        "bbox": [
+          906,
+          224,
+          1059,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971781565039186,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9235131740570068,
+        "bbox": [
+          906,
+          223,
+          1061,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971781772662394,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9244848489761353,
+        "bbox": [
+          907,
+          223,
+          1061,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971781935477667,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9210461974143982,
+        "bbox": [
+          908,
+          223,
+          1063,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971782309438416,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9241070747375488,
+        "bbox": [
+          909,
+          218,
+          1066,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971782559421732,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9269084930419922,
+        "bbox": [
+          910,
+          217,
+          1068,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971782899789105,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9233303070068359,
+        "bbox": [
+          912,
+          218,
+          1070,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971783175732288,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9289088249206543,
+        "bbox": [
+          914,
+          215,
+          1075,
+          422
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971783399320682,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9293102622032166,
+        "bbox": [
+          916,
+          220,
+          1077,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971783747960122,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9331427216529846,
+        "bbox": [
+          921,
+          209,
+          1086,
+          420
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971783893241986,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9353925585746765,
+        "bbox": [
+          922,
+          209,
+          1086,
+          421
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971784119588845,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.935355007648468,
+        "bbox": [
+          923,
+          211,
+          1088,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971784348602780,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9371346235275269,
+        "bbox": [
+          924,
+          212,
+          1090,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971784634697783,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9351162314414978,
+        "bbox": [
+          926,
+          209,
+          1093,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971784934096273,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9204598665237427,
+        "bbox": [
+          928,
+          209,
+          1097,
+          424
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971785219504298,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9273563027381897,
+        "bbox": [
+          930,
+          208,
+          1101,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971785511305661,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9304807782173157,
+        "bbox": [
+          932,
+          206,
+          1105,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971785735811129,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9341714382171631,
+        "bbox": [
+          934,
+          204,
+          1107,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971786013686250,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.922171413898468,
+        "bbox": [
+          936,
+          204,
+          1110,
+          428
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971786327361874,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9279083609580994,
+        "bbox": [
+          938,
+          204,
+          1114,
+          428
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971786603768867,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9121813774108887,
+        "bbox": [
+          939,
+          201,
+          1116,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971786890669333,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9266256093978882,
+        "bbox": [
+          940,
+          203,
+          1118,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971787097420890,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9313163757324219,
+        "bbox": [
+          941,
+          202,
+          1121,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971787343059499,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9255532026290894,
+        "bbox": [
+          944,
+          201,
+          1125,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971787633444666,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9223602414131165,
+        "bbox": [
+          948,
+          199,
+          1131,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971787945652706,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9374170899391174,
+        "bbox": [
+          952,
+          197,
+          1138,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971788246026118,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9282472133636475,
+        "bbox": [
+          954,
+          196,
+          1141,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971788528521084,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9374187588691711,
+        "bbox": [
+          956,
+          194,
+          1145,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971788820183054,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9296612739562988,
+        "bbox": [
+          959,
+          191,
+          1149,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789024231405,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9379868507385254,
+        "bbox": [
+          960,
+          193,
+          1150,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789198845998,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9326959848403931,
+        "bbox": [
+          962,
+          192,
+          1155,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789376634302,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9329451322555542,
+        "bbox": [
+          963,
+          189,
+          1157,
+          434
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789558506419,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.932108998298645,
+        "bbox": [
+          964,
+          190,
+          1159,
+          436
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789702054116,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9357253909111023,
+        "bbox": [
+          967,
+          191,
+          1163,
+          438
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971789881173879,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9352307915687561,
+        "bbox": [
+          968,
+          191,
+          1165,
+          438
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971790067615642,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.932966947555542,
+        "bbox": [
+          970,
+          188,
+          1168,
+          437
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971790242960121,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9291255474090576,
+        "bbox": [
+          972,
+          187,
+          1171,
+          437
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971790559324186,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.929023027420044,
+        "bbox": [
+          974,
+          182,
+          1176,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971790832605874,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9327222108840942,
+        "bbox": [
+          967,
+          183,
+          1168,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971791033041970,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9347687363624573,
+        "bbox": [
+          956,
+          185,
+          1152,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971791292064629,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9334755539894104,
+        "bbox": [
+          932,
+          189,
+          1120,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971791444395984,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9333119988441467,
+        "bbox": [
+          921,
+          191,
+          1106,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971791655628033,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9309026002883911,
+        "bbox": [
+          909,
+          193,
+          1091,
+          434
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971791949182709,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9270809888839722,
+        "bbox": [
+          885,
+          195,
+          1059,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971792242419861,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9266688823699951,
+        "bbox": [
+          882,
+          195,
+          1056,
+          432
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971792556586262,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9308833479881287,
+        "bbox": [
+          884,
+          189,
+          1060,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971792858560518,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.937004029750824,
+        "bbox": [
+          886,
+          188,
+          1063,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971793128861280,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9323926568031311,
+        "bbox": [
+          889,
+          184,
+          1068,
+          429
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971793305148143,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9344227313995361,
+        "bbox": [
+          890,
+          185,
+          1070,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971793466351314,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9357145428657532,
+        "bbox": [
+          891,
+          185,
+          1072,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971793714864753,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9324977397918701,
+        "bbox": [
+          893,
+          184,
+          1077,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971793877940318,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9348468780517578,
+        "bbox": [
+          895,
+          182,
+          1079,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971794239672182,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9339792132377625,
+        "bbox": [
+          896,
+          181,
+          1082,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971794428222577,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9360976815223694,
+        "bbox": [
+          898,
+          179,
+          1085,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971794601280370,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.937251091003418,
+        "bbox": [
+          899,
+          180,
+          1086,
+          434
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971794799177473,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9346022009849548,
+        "bbox": [
+          901,
+          177,
+          1089,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971794931625128,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9358541369438171,
+        "bbox": [
+          901,
+          176,
+          1091,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971795098389929,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.930828332901001,
+        "bbox": [
+          901,
+          176,
+          1090,
+          436
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971795264069531,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9351024031639099,
+        "bbox": [
+          902,
+          174,
+          1093,
+          435
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971795589187550,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9390655755996704,
+        "bbox": [
+          905,
+          176,
+          1097,
+          438
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971795754213006,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9375618696212769,
+        "bbox": [
+          909,
+          176,
+          1103,
+          440
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971795911673369,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9359614849090576,
+        "bbox": [
+          910,
+          173,
+          1106,
+          438
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971796256916351,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9380163550376892,
+        "bbox": [
+          913,
+          169,
+          1111,
+          437
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971796574555478,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9414794445037842,
+        "bbox": [
+          916,
+          166,
+          1116,
+          437
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971796703327300,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9411719441413879,
+        "bbox": [
+          916,
+          167,
+          1117,
+          440
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971796908976587,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.936229407787323,
+        "bbox": [
+          918,
+          167,
+          1119,
+          441
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971797099981426,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9373118281364441,
+        "bbox": [
+          920,
+          164,
+          1123,
+          439
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971797375981852,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.942697286605835,
+        "bbox": [
+          922,
+          164,
+          1129,
+          443
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971797683414405,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9398254156112671,
+        "bbox": [
+          925,
+          161,
+          1133,
+          442
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971797962236878,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9407259821891785,
+        "bbox": [
+          928,
+          160,
+          1140,
+          442
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971798122756585,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9409852623939514,
+        "bbox": [
+          930,
+          159,
+          1142,
+          443
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971798438370200,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9422498345375061,
+        "bbox": [
+          933,
+          159,
+          1147,
+          447
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971798844196123,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9430187344551086,
+        "bbox": [
+          937,
+          151,
+          1155,
+          445
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971799020372039,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9434381723403931,
+        "bbox": [
+          938,
+          150,
+          1157,
+          444
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971799190981234,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.931011974811554,
+        "bbox": [
+          941,
+          138,
+          1164,
+          437
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971799504808048,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9428278207778931,
+        "bbox": [
+          941,
+          148,
+          1163,
+          446
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971799668458618,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9424856901168823,
+        "bbox": [
+          942,
+          145,
+          1166,
+          445
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971799972026126,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9393174052238464,
+        "bbox": [
+          945,
+          143,
+          1172,
+          447
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971800187042945,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9441330432891846,
+        "bbox": [
+          948,
+          140,
+          1176,
+          445
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971800479200511,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9405949711799622,
+        "bbox": [
+          952,
+          136,
+          1183,
+          444
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971800639013240,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.939167857170105,
+        "bbox": [
+          954,
+          134,
+          1187,
+          444
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971800828721492,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9276644587516785,
+        "bbox": [
+          954,
+          135,
+          1187,
+          446
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801006909313,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9390511512756348,
+        "bbox": [
+          957,
+          131,
+          1192,
+          445
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801184489641,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9370486736297607,
+        "bbox": [
+          960,
+          128,
+          1199,
+          446
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801365533585,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9408590197563171,
+        "bbox": [
+          978,
+          124,
+          1227,
+          448
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801506559815,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9395771622657776,
+        "bbox": [
+          991,
+          119,
+          1248,
+          449
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801708778756,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.9363709092140198,
+        "bbox": [
+          1009,
+          113,
+          1277,
+          452
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971801990285736,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8427727818489075,
+        "bbox": [
+          1048,
+          98,
+          1279,
+          461
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971802185005147,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.8076617121696472,
+        "bbox": [
+          1070,
+          90,
+          1279,
+          463
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971802416846118,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.6644998788833618,
+        "bbox": [
+          1108,
+          85,
+          1279,
+          463
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971802624857559,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.753264844417572,
+        "bbox": [
+          1126,
+          86,
+          1279,
+          462
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971802911206682,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5050994157791138,
+        "bbox": [
+          1177,
+          110,
+          1279,
+          369
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971803120422931,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.5899348855018616,
+        "bbox": [
+          1192,
+          121,
+          1279,
+          362
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971803278473080,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.4758036136627197,
+        "bbox": [
+          1228,
+          244,
+          1279,
+          344
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971803485768424,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971803668961643,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971803852513598,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971803996912918,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971804288223729,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971804432718212,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971804811123551,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971805107927836,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971805405245505,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971805696074864,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971805981965858,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971806165304985,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971806349896695,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971806505049790,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971806691385068,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971807004189703,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971807286416860,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971807581160722,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971807892638471,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971808011965083,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971808239814737,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971808422623614,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971808591039329,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971808770933492,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971809069785130,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971809240586558,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971809413355479,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971809608212248,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971809778526786,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810074843786,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810247680479,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810379083364,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810561135089,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810707830232,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971810863450820,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971811022364952,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971811365127620,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971811541350652,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971811725649951,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971811893438651,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971812087245769,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971812260676159,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971812548421931,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971812810202369,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971813110246006,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971813401704053,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971813683684840,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971813867185773,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971814054717113,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971814339010111,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971814501373552,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971814802525870,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971815078149059,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971815278314118,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971815551482122,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971815727893875,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971815907459819,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971816184325283,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971816362366303,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971816502369619,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971816827611031,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971817012222469,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971817189429511,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971817332795230,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971817513708437,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971817728222177,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818013504338,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818311410172,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818478454672,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818658024995,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818834438888,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971818998418921,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971819294969391,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971819480764994,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971819810654920,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971819972131739,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971820188413713,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971820330277482,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971820494452735,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971820650918680,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971820857300885,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971821071092220,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971821350087014,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971821477600884,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971821705362102,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971821861777456,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971822004218253,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971822176818812,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971822358685663,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971822588979915,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971822862749188,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971823040359531,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971823335924309,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971823616388951,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971823786911908,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971824077760199,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971824422069063,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971824715743910,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971824899074243,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971825051011495,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971825264599760,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971825542176626,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971825712987727,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971825888150691,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971826048460516,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971826331227189,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971826509163528,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971826819734519,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971826997806212,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971827233126431,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.2520657181739807,
+        "bbox": [
+          0,
+          318,
+          27,
+          433
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971827397925134,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971827582106784,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971827730306317,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828078048902,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828230878077,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828421881874,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828573770132,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828768108783,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971828937917654,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829110148269,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829285157475,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829461111405,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829618996825,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829795193016,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971829983925940,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971830141960024,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971830437390712,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971830724200005,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971830902586718,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971831210946023,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971831387560240,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971831694096045,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971831866259620,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971832172099359,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971832445961758,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971832620457671,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971832907547235,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833085457070,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833261866078,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833444214299,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833614890516,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833767180189,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971833943165280,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971834134265736,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971834418064472,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971834604386077,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971834900358394,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971835063468622,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971835226468870,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971835435001991,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971835602504240,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971835919481377,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971836201890956,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971836491727681,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971836800526889,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971836967798299,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971837152019772,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971837369048018,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971837630998956,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971837931964572,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971838106610454,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971838257578007,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971838566959295,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971838753082503,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971838925643490,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971839183732043,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971839387605149,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971839674962333,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971839957461214,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971840234328801,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971840409232236,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971840695873227,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971840889545587,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971841166283899,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971841341034668,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971841627928349,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971841804060431,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971842090431415,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971842282081498,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971842578494864,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971842730167691,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971842918157143,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971843191438618,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971843396864414,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971843672829508,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971843823401777,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971844146609005,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971844331488390,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971844602827871,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971844784263864,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971845086249287,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971845409337509,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971845665144363,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971845946454582,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971846120834898,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971846280366429,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971846601067207,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971846896099476,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971847073735065,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971847242884357,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971847381173414,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971847729114593,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971848021859893,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971848204417780,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971848481608183,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971848789353811,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971849068686930,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971849249226829,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971849545875817,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971849824887797,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850045093347,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850224773220,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850401867421,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850559379649,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850760312298,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971850932797656,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971851114553400,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971851291068042,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971851538767580,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971851846982492,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971852090824448,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971852274055354,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971852496811341,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971852770785756,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971852963710453,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971853116023494,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971853300198451,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971853537590271,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971853696469919,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971853900804966,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971854090731624,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971854399458313,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971854684161571,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971854867308670,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971855168827372,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971855454016941,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971855760013003,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971856034175755,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971856323790717,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971856620499078,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971856915992872,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971857100545471,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971857396837113,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971857576021640,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971857748003908,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971858077989124,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971858245860926,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971858588574670,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971858759370976,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971858939081877,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971859138895461,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971859330291675,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971859502423790,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971859682665896,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971859862484151,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971860170702019,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971860370313914,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971860657277374,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971860983268113,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971861264652150,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971861444076084,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971861722165842,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971861901686156,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971862105651255,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971862277947775,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971862600414160,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971862802367128,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971863058199739,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971863342403450,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971863669588334,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971863894526761,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971864214733600,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971864389672490,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971864576747969,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971864742650446,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971864923961137,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971865119965801,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971865325512197,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971865586324829,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971865798512485,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971866155116446,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971866447485947,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971866745147778,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971867029927903,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971867313571854,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971867484309176,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971867785952932,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971868079867958,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971868264456923,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971868549333808,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971868835891606,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971869015231759,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971869180458070,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971869331096674,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971869587336454,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971869903853979,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971870100455728,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971870274038418,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971870477929875,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971870768398912,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971870915257243,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971871227841027,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971871414571808,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971871680850222,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971871855453119,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971872029847353,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971872254326172,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971872473103367,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971872763602830,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971872919995563,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971873221423861,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971873527555299,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971873701840128,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971873854551592,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971874035402132,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971874214670088,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971874415322459,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971874705033954,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971874982918159,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971875164517846,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971875475426817,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971875651439436,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971875941861776,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971876190989362,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971876321781201,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971876506959504,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971876690585367,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971876963465545,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971877117864958,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971877310504513,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971877484072218,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971877670602329,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971877844796917,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971878017379612,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971878326856228,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971878634843729,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971878814836926,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971879025985219,
+    "detections": [
+      {
+        "class": "toilet",
+        "confidence": 0.552906334400177,
+        "bbox": [
+          0,
+          298,
+          26,
+          440
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971879187198968,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971879484071080,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971879645317948,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971879936210850,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971880111254772,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971880411297102,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971880715141271,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971881014248189,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971881143774290,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971881464080347,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971881791229094,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971881971625565,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971882264146321,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971882539247440,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971882832801427,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971882955538692,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971883294591425,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971883473171465,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971883609392069,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971883791779709,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971884013930810,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971884262779610,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971884447225745,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971884660882615,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971884928188157,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971885095278074,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971885287376715,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971885597533924,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971885900313844,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971886069388852,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971886266429341,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971886400513274,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971886614279929,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971886973673115,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971887177934035,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971887475929981,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971887645397417,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971887938717741,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971888107432124,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971888278702675,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971888477361198,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971888646902549,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971888787475586,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971889004615968,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971889187574101,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971889482560744,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971889657876961,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971889806440856,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890024754015,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890222540640,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890390174685,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890668740331,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890815702252,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971890990301221,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971891121077432,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971891257004954,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971891491630821,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971891798066910,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971891946193447,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971892125983821,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971892321156645,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971892456162833,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971892618901169,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971892985237568,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971893161458570,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971893547715606,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971893828625904,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971894127416136,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971894405712251,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971894580368716,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971894735604552,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971894887539357,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895103950963,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895292434207,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895439607953,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895577230176,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895745347874,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971895934346614,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971896065869473,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971896255352061,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971896416491491,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971896653773610,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971896887434746,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971897274692653,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971897512238822,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971897770528984,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971897933543909,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971898121391979,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971898467705457,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971898811442895,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971899095520747,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971899343960004,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971899513487039,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971899648223730,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971899831475244,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971900060491824,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971900377639810,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971900676868344,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971900859021412,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901014392851,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901222537249,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901396550505,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901570614414,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901711959626,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971901889108543,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971902070278295,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971902233240225,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971902438001165,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971902600507564,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971902779979251,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903069184280,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903246331499,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903467617777,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903591761678,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903734618978,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971903905065997,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971904126282614,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971904340928369,
+    "detections": [
+      {
+        "class": "chair",
+        "confidence": 0.35662606358528137,
+        "bbox": [
+          0,
+          198,
+          104,
+          429
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971904660810650,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971904809504604,
+    "detections": [
+      {
+        "class": "chair",
+        "confidence": 0.29735875129699707,
+        "bbox": [
+          58,
+          208,
+          169,
+          405
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971905006355638,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971905307085979,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971905470329365,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971905648173956,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971905807545043,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971905982089693,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971906174014906,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971906340480508,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971906513305076,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971906803340620,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971906976574865,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971907172090725,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971907301562854,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971907502801839,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971907644610063,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971907943255570,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908074887853,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908246317221,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908467324497,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908613920849,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908811764759,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971908995510927,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971909175511413,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971909343163644,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971909517887961,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971909804929110,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971909949730217,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971910165367789,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971910308696707,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971910520998819,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971910803366040,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971910984861399,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971911188302900,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971911361360668,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971911513808007,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971911701544258,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971911850702343,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971912187286067,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971912358495953,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971912642054795,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971912812931864,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971913114073339,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971913264268046,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971913440800145,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971913637884820,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971913812241245,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971914003034278,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971914157227709,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971914319504697,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971914502879740,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971914813755285,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971915102377054,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971915288457664,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971915433409574,
+    "detections": [
+      {
+        "class": "chair",
+        "confidence": 0.252236545085907,
+        "bbox": [
+          326,
+          302,
+          398,
+          402
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971915652040662,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971915781884191,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971915979702940,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971916168235435,
+    "detections": [
+      {
+        "class": "chair",
+        "confidence": 0.2803627550601959,
+        "bbox": [
+          329,
+          302,
+          400,
+          403
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971916351681128,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971916528304355,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971916702822242,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971916872182385,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971917043260944,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971917161603408,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971917354472755,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971917714226071,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971917992150287,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971918288341583,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971918471143623,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971918644723503,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971918959985363,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971919116458074,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971919436706226,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971919612075045,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971919789469209,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971920103590351,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971920286782291,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971920452892885,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971920612938164,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971920959133388,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971921171148362,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971921445563327,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971921630547725,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971921928515444,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971922106282771,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971922276527699,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971922459358149,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971922766670868,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971922910433707,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971923143706083,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971923340437161,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971923525210239,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971923787307441,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971923975095258,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971924117620873,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971924333638086,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971924717323770,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925014090419,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925183618224,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925323043407,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925540516679,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925713358506,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971925896115772,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971926168757179,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971926313267755,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971926509396202,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971926697282986,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971926994491915,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971927149833822,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971927346365129,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971927512866482,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971927664942366,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971927808836874,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971928203581711,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971928334571542,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971928579124437,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971928722075245,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971929079905041,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971929378252758,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971929697770939,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971929973085720,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971930118580982,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971930317457839,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971930493736746,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971930619409065,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971930983860403,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971931175413697,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971931421655693,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971931569286502,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971931778484505,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932065133535,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932181532623,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932336751811,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932491122079,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932695464469,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971932930325428,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971933124782681,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971933330559818,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971933611241412,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971933789110257,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971933953612017,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971934119324504,
+    "detections": [
+      {
+        "class": "chair",
+        "confidence": 0.35915765166282654,
+        "bbox": [
+          391,
+          265,
+          450,
+          413
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1760971934315993011,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971934488221864,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971934665831137,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971934980463809,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971935162981906,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971935330446917,
+    "detections": []
+  },
+  {
+    "timestamp": 1760971935621299550,
+    "detections": []
+  }
+]

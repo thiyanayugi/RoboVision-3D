@@ -1,0 +1,12 @@
+{
+  "survey": "bathroom",
+  "total_frames": 1347,
+  "frames_with_detections": 292,
+  "total_detections": 324,
+  "detections_by_class": {
+    "toilet": 319,
+    "chair": 5
+  },
+  "model": "yolov8x.pt",
+  "confidence_threshold": 0.25
+}

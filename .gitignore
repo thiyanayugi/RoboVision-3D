@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large - exclude all data directories)
+*.db3
+*.bag
+extracted_data/
+Challenge_Data/
+synchronized_data/
+scan_to_map_odom/
+results/
+
+# Project transformation notes (internal use only)
+PROJECT_TRANSFORMATION.md
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+
+# Large files stored with Git LFS
+# PLY files (bathroom: 141 MB, office: 510 MB) - tracked with Git LFS
+# See .gitattributes for LFS configuration
+
+# YOLO model weights (131 MB - exceeds GitHub limit)
+# Download from: https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt
+module1_object_detection/models/*.pt
+
+# OS
+Thumbs.db
+.DS_Store
+

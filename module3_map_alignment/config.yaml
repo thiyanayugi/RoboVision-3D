@@ -1,0 +1,92 @@
+# Challenge 3: Map Alignment Configuration
+
+# Feature detection (ORB)
+feature_detection:
+  n_features: 5000
+  scale_factor: 1.2
+  n_levels: 8
+  edge_threshold: 31
+  first_level: 0
+  wta_k: 2
+  patch_size: 31
+
+# Feature matching
+feature_matching:
+  # KNN matching
+  k: 2  # number of nearest neighbors
+  
+  # Lowe's ratio test
+  ratio_threshold: 0.75
+  
+  # Cross-check matching
+  cross_check: true
+
+# RANSAC alignment
+ransac:
+  threshold: 5.0  # pixels
+  confidence: 0.99
+  max_iterations: 2000
+  min_inliers: 4
+
+# Optimization (Differential Evolution)
+optimization:
+  # Search bounds (relative to RANSAC result)
+  translation_range: 2.0  # meters
+  rotation_range: 0.2     # radians (~11 degrees)
+  scale_range: 0.05       # ±5%
+  
+  # Differential evolution parameters
+  population_size: 15
+  max_iterations: 100
+  mutation: 0.8
+  recombination: 0.7
+  
+  # Scoring weights
+  weights:
+    edge_distance: 0.5
+    overlap: 0.3
+    iou: 0.2
+
+# Quality metrics
+quality:
+  edge_distance_threshold: 3  # pixels
+  min_overlap_ratio: 0.01     # 1%
+
+# Visualization
+visualization:
+  # Color scheme for overlay
+  colors:
+    map1: [255, 0, 0]      # Red (bathroom)
+    map2: [0, 255, 255]    # Cyan (office)
+    overlap: [255, 255, 255]  # White
+    background: [205, 205, 205]  # Gray
+  
+  # Figure size for comparison plots
+  figure_size: [20, 10]
+  dpi: 150
+
+# Paths
+paths:
+  data_dir: "../Challenge_Data"
+  output_dir: "../results/challenge3"
+  
+  # Map files
+  bathroom_map: "../Challenge_Data/bathroom/room.pgm"
+  bathroom_yaml: "../Challenge_Data/bathroom/room.yaml"
+  office_map: "../Challenge_Data/office/room.pgm"
+  office_yaml: "../Challenge_Data/office/room.yaml"
+
+# Map names
+maps:
+  source: "bathroom"
+  target: "office"
+
+# Output files
+output:
+  transform: "alignment_transform.yaml"
+  overlay: "aligned_overlay.png"
+  comparison: "aligned_maps.png"
+  merged_map: "whole_aligned_map.png"
+  merged_map_gray: "whole_aligned_map_gray.pgm"
+  merged_yaml: "whole_aligned_map.yaml"
+

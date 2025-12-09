@@ -1,0 +1,108 @@
+# Challenge 1: Object Detection Configuration
+
+# Camera intrinsics (ZED camera)
+camera:
+  fx: 527.297
+  fy: 527.297
+  cx: 658.821
+  cy: 372.258
+
+# Detection parameters
+detection:
+  # Minimum number of LiDAR points in bounding box
+  min_points: 10
+  
+  # DBSCAN clustering for merging detections
+  clustering:
+    eps: 0.3  # meters - spatial distance threshold
+    min_samples: 1
+  
+  # Size constraints for oriented bounding boxes (meters)
+  size_constraints:
+    chair:
+      min: [0.30, 0.30, 0.40]  # [width, depth, height]
+      max: [0.80, 0.80, 1.20]
+    couch:
+      min: [1.20, 0.60, 0.40]
+      max: [2.50, 1.20, 1.00]
+    table:
+      min: [0.50, 0.50, 0.30]
+      max: [2.00, 1.50, 1.00]
+    shelf:
+      min: [0.40, 0.20, 0.50]
+      max: [1.50, 0.60, 2.50]
+    toilet:
+      min: [0.35, 0.35, 0.35]
+      max: [0.90, 0.85, 0.90]
+    bathtub:
+      min: [1.00, 0.50, 0.30]
+      max: [1.80, 0.90, 0.70]
+
+# Filtering parameters
+filtering:
+  # Confidence thresholds per class
+  confidence:
+    default: 0.5
+    toilet: 0.7
+    chair: 0.5
+    couch: 0.5
+    table: 0.5
+    shelf: 0.5
+    bathtub: 0.6
+  
+  # Minimum number of observations (frames)
+  min_observations:
+    default: 10
+    toilet: 50
+    chair: 20
+    couch: 30
+    table: 20
+    shelf: 25
+    bathtub: 40
+  
+  # Dimension validation (realistic sizes)
+  dimension_constraints:
+    chair:
+      width: [0.30, 0.85]
+      depth: [0.30, 0.85]
+      height: [0.40, 1.25]
+    couch:
+      width: [1.20, 2.60]
+      depth: [0.60, 1.25]
+      height: [0.40, 1.00]
+    table:
+      width: [0.50, 2.00]
+      depth: [0.50, 1.50]
+      height: [0.30, 1.00]
+    shelf:
+      width: [0.40, 1.50]
+      depth: [0.20, 0.60]
+      height: [0.50, 2.50]
+    toilet:
+      width: [0.35, 0.90]
+      depth: [0.35, 0.85]
+      height: [0.35, 0.90]
+    bathtub:
+      width: [1.00, 1.80]
+      depth: [0.50, 0.90]
+      height: [0.30, 0.70]
+  
+  # Merging nearby detections
+  merge_distance: 0.5  # meters
+  
+  # Non-maximum suppression
+  iou_threshold: 0.2  # IoU threshold for overlap
+
+# Paths
+paths:
+  synchronized_data: "../synchronized_data"
+  odometry: "../scan_to_map_odom"
+  detections: "detections"
+  models: "models"
+  output: "../results/challenge1"
+
+# Surveys to process
+surveys:
+  - bathroom
+  - office
+
