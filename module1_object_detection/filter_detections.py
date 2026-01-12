@@ -75,6 +75,9 @@ def calculate_quality_score(det: dict) -> float:
     num_points = det.get('num_points', 0)
     num_observations = det.get('num_observations', 1)
     
+    # Weighted quality score combining multiple reliability metrics
+    # Weights: 40% confidence, 50% observations, 10% point count
+    # Observations are most important for reducing false positives
     score = (
         0.4 * confidence +
         0.5 * min(num_observations / 50.0, 1.0) +
