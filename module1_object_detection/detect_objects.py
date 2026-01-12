@@ -48,6 +48,8 @@ class CompatUnpickler(pickle.Unpickler):
 
 
 # ZED camera intrinsic parameters
+# These values define the camera's projection model for converting 3D points to 2D pixels
+# fx, fy: focal lengths in pixels; cx, cy: principal point (optical center)
 CAMERA_FX = 527.2972398956961
 CAMERA_FY = 527.2972398956961
 CAMERA_CX = 658.8206787109375
