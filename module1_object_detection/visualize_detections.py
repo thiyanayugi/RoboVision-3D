@@ -26,7 +26,7 @@ import yaml
 from pathlib import Path
 
 
-def world_to_map(x, y, origin, resolution, map_height):
+def world_to_map(x: float, y: float, origin: list, resolution: float, map_height: int) -> tuple:
     """
     Convert world coordinates to map pixel coordinates.
     
