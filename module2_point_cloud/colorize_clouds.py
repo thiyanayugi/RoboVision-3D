@@ -59,7 +59,7 @@ class PointCloudColorizer:
     5. Concatenating all frames into a single cloud
     """
     
-    def __init__(self, workspace_dir):
+    def __init__(self, workspace_dir: str):
         """
         Initialize the colorizer.
         
