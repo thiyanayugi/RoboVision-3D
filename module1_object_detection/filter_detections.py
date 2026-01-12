@@ -49,16 +49,17 @@ def calculate_iou(box1: dict, box2: dict) -> float:
     y2_min = box2['y'] - box2['depth'] / 2
     y2_max = box2['y'] + box2['depth'] / 2
     
-    # Calculate intersection
+    # Calculate intersection area
     x_overlap = max(0, min(x1_max, x2_max) - max(x1_min, x2_min))
     y_overlap = max(0, min(y1_max, y2_max) - max(y1_min, y2_min))
     intersection = x_overlap * y_overlap
     
-    # Calculate union
+    # Calculate union area using formula: Union = Area1 + Area2 - Intersection
     area1 = box1['width'] * box1['depth']
     area2 = box2['width'] * box2['depth']
     union = area1 + area2 - intersection
     
+    # IoU = Intersection / Union, ranges from 0 (no overlap) to 1 (perfect overlap)
     return intersection / union if union > 0 else 0
 
 
