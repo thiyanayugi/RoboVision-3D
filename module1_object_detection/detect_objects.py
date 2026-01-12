@@ -131,7 +131,8 @@ def extract_bbox_points(frame: SynchronizedFrame, bbox: list) -> np.ndarray:
         if z_cam <= 0.1:
             continue
         
-        # Project 3D point to 2D image coordinates
+        # Project 3D point to 2D image coordinates using pinhole camera model
+        # Formula: u = fx * (x/z) + cx, v = fy * (y/z) + cy
         u = int(CAMERA_FX * x_cam / z_cam + CAMERA_CX)
         v = int(CAMERA_FY * y_cam / z_cam + CAMERA_CY)
         
