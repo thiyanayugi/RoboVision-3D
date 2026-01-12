@@ -158,7 +158,9 @@ class PointCloudColorizer:
         if len(u) == 0:
             return np.array([]), np.array([])
         
-        # Sample colors from image (convert BGR to RGB and normalize to [0-1])
+        # Sample colors from image at projected pixel coordinates
+        # OpenCV loads images in BGR format, so reverse channels to RGB
+        # Normalize from [0-255] to [0-1] for Open3D compatibility
         colors = rgb_image[v, u, ::-1] / 255.0
 
         return points_valid, colors
