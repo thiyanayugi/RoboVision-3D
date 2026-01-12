@@ -101,7 +101,7 @@ class PointCloudColorizer:
         
         return frames, odometry
     
-    def transform_lidar_to_camera(self, points_lidar):
+    def transform_lidar_to_camera(self, points_lidar: np.ndarray) -> np.ndarray:
         """
         Transform points from LiDAR frame to camera frame.
         
