@@ -162,7 +162,7 @@ class PointCloudColorizer:
 
         return points_valid, colors
 
-    def transform_to_world_frame(self, points_lidar, robot_x, robot_y, robot_yaw):
+    def transform_to_world_frame(self, points_lidar: np.ndarray, robot_x: float, robot_y: float, robot_yaw: float) -> np.ndarray:
         """
         Transform points from LiDAR frame to world frame.
 
