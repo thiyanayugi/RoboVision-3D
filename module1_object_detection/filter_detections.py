@@ -26,7 +26,7 @@ import json
 import numpy as np
 
 
-def calculate_distance(det1, det2):
+def calculate_distance(det1: dict, det2: dict) -> float:
     """Calculate Euclidean distance between two detection centers."""
     x1, y1 = det1['pose']['x'], det1['pose']['y']
     x2, y2 = det2['pose']['x'], det2['pose']['y']
