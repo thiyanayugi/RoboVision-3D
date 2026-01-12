@@ -140,7 +140,7 @@ def extract_bbox_points(frame: SynchronizedFrame, bbox: list) -> np.ndarray:
     return np.array(points_in_bbox) if len(points_in_bbox) > 0 else None
 
 
-def transform_to_world_frame(points_lidar, robot_x, robot_y, robot_yaw):
+def transform_to_world_frame(points_lidar: np.ndarray, robot_x: float, robot_y: float, robot_yaw: float) -> np.ndarray:
     """
     Transform points from robot LiDAR frame to world frame.
 
