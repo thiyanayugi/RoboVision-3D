@@ -41,7 +41,8 @@ def world_to_map(x: float, y: float, origin: list, resolution: float, map_height
     """
     map_x = int((x - origin[0]) / resolution)
     map_y = int((y - origin[1]) / resolution)
-    # Flip y-axis (map origin is bottom-left, image origin is top-left)
+    # Flip y-axis to convert from map coordinates (bottom-left origin)
+    # to image coordinates (top-left origin)
     map_y = map_height - map_y
     return map_x, map_y
 
