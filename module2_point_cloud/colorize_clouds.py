@@ -271,7 +271,8 @@ class PointCloudColorizer:
         pcd.points = o3d.utility.Vector3dVector(all_points)
         pcd.colors = o3d.utility.Vector3dVector(all_colors)
 
-        # Apply voxel downsampling to reduce file size
+        # Apply voxel downsampling to reduce file size and remove redundant points
+        # 1cm voxel size provides good balance between detail and file size
         print(f"   Downsampling (voxel size = 0.01m)...")
         pcd = pcd.voxel_down_sample(voxel_size=0.01)
 
