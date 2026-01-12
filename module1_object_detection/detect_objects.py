@@ -228,10 +228,11 @@ def fit_oriented_bounding_box(points: np.ndarray) -> tuple:
         [sin_theta, cos_theta]
     ])
 
-    # Rotate XY coordinates
+    # Rotate XY coordinates to align with principal axes
     rotated_xy = points_2d @ rotation_matrix.T
 
     # Calculate dimensions in the rotated (aligned) frame
+    # This gives tighter bounding box than axis-aligned approach
     width = np.max(rotated_xy[:, 0]) - np.min(rotated_xy[:, 0])
     depth = np.max(rotated_xy[:, 1]) - np.min(rotated_xy[:, 1])
     height = np.max(centered_points[:, 2]) - np.min(centered_points[:, 2])
