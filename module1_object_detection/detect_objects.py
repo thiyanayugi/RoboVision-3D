@@ -54,7 +54,7 @@ CAMERA_CX = 658.8206787109375
 CAMERA_CY = 372.25787353515625
 
 
-def load_survey_data(survey_name):
+def load_survey_data(survey_name: str) -> tuple:
     """
     Load all required data for a survey.
     
