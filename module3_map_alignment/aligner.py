@@ -118,7 +118,9 @@ class MapAligner:
         tx_pixels = transform_matrix[0, 2]
         ty_pixels = transform_matrix[1, 2]
         
-        # Extract rotation and scale
+        # Extract rotation and scale from the affine matrix elements
+        # Scale is the magnitude of the first column vector
+        # Rotation is the angle of the first column vector
         a = transform_matrix[0, 0]
         b = transform_matrix[0, 1]
         scale = np.sqrt(a**2 + b**2)
