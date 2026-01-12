@@ -238,7 +238,7 @@ def fit_oriented_bounding_box(points: np.ndarray) -> tuple:
     return center, (width, depth, height), orientation
 
 
-def apply_size_constraints(class_name, width, depth, height):
+def apply_size_constraints(class_name: str, width: float, depth: float, height: float) -> tuple:
     """
     Apply realistic size constraints based on object class.
 
