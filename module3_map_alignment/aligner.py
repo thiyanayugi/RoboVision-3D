@@ -60,7 +60,12 @@ class AlignmentResult:
 
 
 class MapAligner:
-    """Estimates transformation between two maps"""
+    """
+    Estimates transformation between two maps using feature-based alignment.
+    
+    Uses RANSAC-based robust estimation to handle outliers in feature matches
+    and compute the optimal affine transformation (translation, rotation, scale).
+    """
     
     def __init__(self, ransac_threshold: float = 5.0, 
                  confidence: float = 0.99,
