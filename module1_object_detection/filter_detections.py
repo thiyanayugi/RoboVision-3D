@@ -33,7 +33,7 @@ def calculate_distance(det1: dict, det2: dict) -> float:
     return np.sqrt((x1 - x2)**2 + (y1 - y2)**2)
 
 
-def calculate_iou(box1, box2):
+def calculate_iou(box1: dict, box2: dict) -> float:
     """
     Calculate Intersection over Union between two bounding boxes.
     
