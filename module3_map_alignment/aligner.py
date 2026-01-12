@@ -93,7 +93,8 @@ class MapAligner:
         # Get matched point coordinates
         points1, points2 = match_result.get_matched_points()
         
-        # Estimate affine transformation using RANSAC
+        # Estimate affine transformation using RANSAC for robust outlier rejection
+        # RANSAC iteratively finds the best transformation that maximizes inliers
         # This finds transform that maps points2 -> points1
         transform_matrix, inlier_mask = cv2.estimateAffinePartial2D(
             points2, points1,
