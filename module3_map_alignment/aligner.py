@@ -131,7 +131,8 @@ class MapAligner:
         tx_meters = tx_pixels * resolution
         ty_meters = ty_pixels * resolution
         
-        # Calculate reprojection error for inliers
+        # Calculate reprojection error for inliers only
+        # This measures how well the transformation aligns the matched points
         points2_transformed = cv2.transform(
             points2.reshape(-1, 1, 2), 
             transform_matrix
