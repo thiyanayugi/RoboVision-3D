@@ -83,7 +83,7 @@ def calculate_quality_score(det: dict) -> float:
     return score
 
 
-def merge_nearby_detections(detections, distance_threshold=0.5):
+def merge_nearby_detections(detections: list, distance_threshold: float = 0.5) -> list:
     """
     Merge detections that are very close to each other.
     
