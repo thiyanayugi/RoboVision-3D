@@ -171,7 +171,7 @@ def transform_to_world_frame(points_lidar: np.ndarray, robot_x: float, robot_y: 
     return points_world
 
 
-def fit_oriented_bounding_box(points):
+def fit_oriented_bounding_box(points: np.ndarray) -> tuple:
     """
     Fit an oriented bounding box to 3D points using PCA.
 
