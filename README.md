@@ -33,13 +33,13 @@
 
 The system utilizes data from a MESA robot equipped with:
 
-| Sensor                | Purpose                        | Output                     |
-| --------------------- | ------------------------------ | -------------------------- |
-| **ZED Stereo Camera** | RGB imaging & depth estimation | RGB images, depth maps     |
-| **Livox LiDAR**       | High-density 3D scanning       | Point clouds               |
-| **2D Laser Scanner**  | Mapping & localization         | Laser scans                |
-| **IMU**               | Motion tracking                | Inertial measurements      |
-| **Wheel Odometry**    | Pose estimation                | Robot position/orientation |
+| Sensor                | Purpose                        | Output                     | Frequency     |
+| --------------------- | ------------------------------ | -------------------------- | ------------- |
+| **ZED Stereo Camera** | RGB imaging & depth estimation | RGB images, depth maps     | ~30 Hz        |
+| **Livox LiDAR**       | High-density 3D scanning       | Point clouds               | ~10 Hz        |
+| **2D Laser Scanner**  | Mapping & localization         | Laser scans                | ~10 Hz        |
+| **IMU**               | Motion tracking                | Inertial measurements      | ~100 Hz       |
+| **Wheel Odometry**    | Pose estimation                | Robot position/orientation | ~50 Hz        |
 
 ### Test Environments
 
