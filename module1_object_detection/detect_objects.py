@@ -321,6 +321,8 @@ def collect_all_detections(frames, odometry, detections_per_frame):
 
         robot_x = odom['position']['x']
         robot_y = odom['position']['y']
+        # Convert quaternion to yaw angle using formula: yaw = 2 * atan2(qz, qw)
+        # This extracts the rotation around the Z-axis (vertical) from the quaternion
         robot_yaw = 2 * np.arctan2(odom['orientation']['z'], odom['orientation']['w'])
 
         # Process each detection in this frame
