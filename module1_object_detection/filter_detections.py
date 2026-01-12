@@ -62,7 +62,7 @@ def calculate_iou(box1: dict, box2: dict) -> float:
     return intersection / union if union > 0 else 0
 
 
-def calculate_quality_score(det):
+def calculate_quality_score(det: dict) -> float:
     """
     Calculate quality score for a detection.
     
