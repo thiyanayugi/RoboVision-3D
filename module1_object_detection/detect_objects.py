@@ -91,7 +91,7 @@ def load_survey_data(survey_name: str) -> tuple:
     return frames, odometry, detections
 
 
-def extract_bbox_points(frame, bbox):
+def extract_bbox_points(frame: SynchronizedFrame, bbox: list) -> np.ndarray:
     """
     Extract LiDAR points that fall within a 2D bounding box.
     
