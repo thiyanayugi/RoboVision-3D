@@ -203,7 +203,8 @@ def fit_oriented_bounding_box(points: np.ndarray) -> tuple:
     # Use PCA on XY plane to find principal orientation
     points_2d = centered_points[:, :2]
 
-    # Compute covariance matrix
+    # Compute covariance matrix to analyze point distribution
+    # This captures how points are spread in different directions
     cov_matrix = np.cov(points_2d.T)
 
     # Get eigenvectors (principal directions)
