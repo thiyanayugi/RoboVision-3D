@@ -385,8 +385,9 @@ def merge_detections_by_clustering(detections_with_points):
 
         centers = np.array(centers)
 
-        # Cluster detection centers using DBSCAN
+        # Cluster detection centers using DBSCAN (Density-Based Spatial Clustering)
         # eps=0.3 means detections within 30cm are considered the same object
+        # min_samples=1 ensures all detections are assigned to a cluster
         clustering = DBSCAN(eps=0.3, min_samples=1).fit(centers)
 
         # Merge all detections in each cluster
