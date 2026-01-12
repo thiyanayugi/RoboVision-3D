@@ -116,7 +116,8 @@ def visualize_detections(survey_name, detections_json, map_pgm, map_yaml, output
     
     detections = data['detections']
     
-    # Color map for different object classes
+    # Color map for different object classes (BGR format for OpenCV)
+    # Each class gets a distinct color for easy visual identification
     colors = {
         'chair': (255, 0, 0),      # Blue
         'couch': (0, 255, 0),      # Green
