@@ -165,6 +165,8 @@ def transform_to_world_frame(points_lidar: np.ndarray, robot_x: float, robot_y: 
         lidar_x, lidar_y, lidar_z = point
 
         # Apply 2D rotation and translation to XY coordinates
+        # Standard 2D rotation matrix: [cos(θ) -sin(θ); sin(θ) cos(θ)]
+        # Z-coordinate remains unchanged (planar robot motion)
         world_x = robot_x + lidar_x * cos_yaw - lidar_y * sin_yaw
         world_y = robot_y + lidar_x * sin_yaw + lidar_y * cos_yaw
         world_z = lidar_z
