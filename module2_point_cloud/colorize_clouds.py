@@ -41,6 +41,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "module1_object_detection"
 
 
 # ZED camera intrinsic parameters
+# These calibration values are used for projecting 3D LiDAR points onto 2D images
 CAMERA_FX = 527.2972398956961
 CAMERA_FY = 527.2972398956961
 CAMERA_CX = 658.8206787109375
