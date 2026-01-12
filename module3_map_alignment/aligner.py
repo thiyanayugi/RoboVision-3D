@@ -111,9 +111,10 @@ class MapAligner:
         num_inliers = np.sum(inlier_mask)
         num_matches = len(points1)
         
-        # Extract transformation parameters
-        # Transform matrix is [[cos(θ)*s, -sin(θ)*s, tx],
-        #                      [sin(θ)*s,  cos(θ)*s, ty]]
+        # Extract transformation parameters from the 2x3 affine matrix
+        # Transform matrix structure: [[cos(θ)*s, -sin(θ)*s, tx],
+        #                               [sin(θ)*s,  cos(θ)*s, ty]]
+        # where s=scale, θ=rotation angle, (tx,ty)=translation
         tx_pixels = transform_matrix[0, 2]
         ty_pixels = transform_matrix[1, 2]
         
