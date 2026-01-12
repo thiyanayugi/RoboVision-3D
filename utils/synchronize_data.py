@@ -71,6 +71,7 @@ def find_closest_timestamp(target_ts: int, available_ts: List[int],
         target_ts: Target timestamp
         available_ts: List of available timestamps
         max_diff: Maximum allowed time difference in nanoseconds (default: 50ms)
+                  This threshold ensures sensors are temporally aligned
     
     Returns:
         Closest timestamp or None if no match within threshold
