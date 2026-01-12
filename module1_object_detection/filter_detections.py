@@ -121,7 +121,7 @@ def merge_nearby_detections(detections: list, distance_threshold: float = 0.5) -
     return merged
 
 
-def is_realistic_dimensions(det):
+def is_realistic_dimensions(det: dict) -> bool:
     """
     Check if detection dimensions are realistic for the object class.
     
