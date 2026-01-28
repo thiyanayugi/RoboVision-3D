@@ -1,3 +1,4 @@
+"""Run YOLOv8 inference on extracted image frames."""
 #!/usr/bin/env python3
 """
 Run YOLO object detection on RGB images.
