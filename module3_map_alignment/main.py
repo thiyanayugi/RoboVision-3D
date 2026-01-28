@@ -1,3 +1,4 @@
+"""Main entry point for the map alignment pipeline."""
 #!/usr/bin/env python3
 """
 RoboVision-3D Module 3: Map Registration
