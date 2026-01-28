@@ -24,12 +24,15 @@ Output:
 """
 
 from typing import Dict, List, Optional, Tuple
+import logging
 
 import numpy as np
 import pickle
 import json
 from pathlib import Path
 from sklearn.cluster import DBSCAN
+
+logger = logging.getLogger(__name__)
 
 # Type aliases for clarity
 PointCloud = np.ndarray  # Nx3 array of 3D points
