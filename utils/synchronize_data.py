@@ -63,8 +63,12 @@ def load_timestamps_from_directory(directory: Path, extension: str = ".npy") -> 
     return files
 
 
-def find_closest_timestamp(target_ts: int, available_ts: List[int], 
-                           max_diff: int = 50000000) -> Optional[int]:
+# Default sync threshold: 50ms in nanoseconds (ROS uses nanosecond timestamps)
+DEFAULT_SYNC_THRESHOLD_NS = 50_000_000
+
+
+def find_closest_timestamp(target_ts: int, available_ts: List[int],
+                           max_diff: int = DEFAULT_SYNC_THRESHOLD_NS) -> Optional[int]:
     """
     Find the closest timestamp within a maximum time difference.
     
