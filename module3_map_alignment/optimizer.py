@@ -27,7 +27,8 @@ def compute_wall_alignment_score(map1_img, map2_img, transform_matrix):
     h, w = map1_img.shape
     warped2 = cv2.warpAffine(map2_img, transform_matrix, (w, h), borderValue=255)
 
-    # Extract edges (walls)
+    # Extract edges (walls) using Canny edge detector
+    # Low threshold=50, High threshold=150 (1:3 ratio recommended by Canny)
     edges1 = cv2.Canny(map1_img, 50, 150)
     edges2 = cv2.Canny(warped2, 50, 150)
 
