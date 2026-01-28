@@ -30,12 +30,15 @@ Output:
 """
 
 import sys
+import logging
 import pickle
 import numpy as np
 from pathlib import Path
 import open3d as o3d
 import time
 import cv2
+
+logger = logging.getLogger(__name__)
 
 # Add challenge1 directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent / "module1_object_detection"))
