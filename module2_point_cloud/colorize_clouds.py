@@ -222,6 +222,8 @@ class PointCloudColorizer:
         all_points = []
         all_colors = []
 
+        # TODO: Consider parallelizing frame processing with multiprocessing
+        # Each frame is independent and could be processed in parallel
         print(f"\n🎨 Colorizing point clouds...")
 
         for i, frame in enumerate(frames):
