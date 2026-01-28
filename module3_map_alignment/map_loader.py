@@ -5,11 +5,15 @@ Map Loader Module for RoboVision-3D Module 3
 Loads PGM occupancy grid maps and their YAML configuration files
 """
 
+import logging
+
 import cv2
 import numpy as np
 import yaml
 import os
 from typing import Dict, Tuple, Optional
+
+logger = logging.getLogger(__name__)
 
 
 class MapData:
