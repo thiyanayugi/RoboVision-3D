@@ -23,6 +23,8 @@ Output:
     results/challenge1/office_detections_filtered.json
 """
 
+from typing import Dict, List, Optional
+
 import json
 import numpy as np
 
