@@ -1,3 +1,4 @@
+"""Map alignment using feature-based registration techniques."""
 #!/usr/bin/env python3
 """
 Map Aligner Module for RoboVision-3D Module 3
