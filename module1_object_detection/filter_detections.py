@@ -28,6 +28,11 @@ from typing import Dict, List, Optional
 import json
 import numpy as np
 
+# Filtering constants
+IOU_OVERLAP_THRESHOLD = 0.2  # IoU threshold for non-maximum suppression
+DEFAULT_MERGE_DISTANCE = 0.5  # Distance in meters to merge nearby detections
+EDGE_PROXIMITY_PIXELS = 3.0  # Pixel threshold for wall alignment scoring
+
 
 def calculate_distance(det1: dict, det2: dict) -> float:
     """Calculate Euclidean distance between two detection centers."""
