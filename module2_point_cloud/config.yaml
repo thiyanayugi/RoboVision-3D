@@ -49,3 +49,5 @@ output:
   binary: true
   compressed: false
 
+
+# Type reference: Colors in BGR format, distances in meters
