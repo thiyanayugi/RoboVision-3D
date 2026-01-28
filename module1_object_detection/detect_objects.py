@@ -23,11 +23,17 @@ Output:
     results/challenge1/office_detections.json
 """
 
+from typing import Dict, List, Optional, Tuple
+
 import numpy as np
 import pickle
 import json
 from pathlib import Path
 from sklearn.cluster import DBSCAN
+
+# Type aliases for clarity
+PointCloud = np.ndarray  # Nx3 array of 3D points
+BoundingBox = List[float]  # [x_min, y_min, x_max, y_max]
 
 # Define SynchronizedFrame class for pickle compatibility
 class SynchronizedFrame:
