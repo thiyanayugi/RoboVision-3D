@@ -1,3 +1,4 @@
+"""Extract and parse data from ROS bag files."""
 #!/usr/bin/env python3
 """
 Extract all sensor data from ROS2 bags and save to extracted_data folder.
