@@ -5,11 +5,15 @@ Map Aligner Module for RoboVision-3D Module 3
 Estimates transformation between two maps using RANSAC
 """
 
+import logging
+
 import cv2
 import numpy as np
 from typing import Tuple, Dict, Optional
 from feature_matcher import FeatureMatchResult
 from map_loader import MapData
+
+logger = logging.getLogger(__name__)
 
 
 class AlignmentResult:
