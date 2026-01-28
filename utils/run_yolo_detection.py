@@ -79,7 +79,7 @@ def load_yolo_model(model_path: Path = None):
     return model
 
 
-def run_detection_on_image(model, image_path: Path, confidence_threshold: float = 0.3):
+def run_detection_on_image(model, image_path: Path, confidence_threshold: float = 0.3) -> List[Dict]:
     """
     Run YOLO detection on a single image.
     
