@@ -1,3 +1,4 @@
+"""Visualization tools for map alignment results."""
 #!/usr/bin/env python3
 """
 Visualizer Module for RoboVision-3D Module 3
