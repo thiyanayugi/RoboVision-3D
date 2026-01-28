@@ -1,3 +1,4 @@
+"""Compute scan-to-map odometry transformations."""
 #!/usr/bin/env python3
 """
 Compute scan-to-map odometry from laser scans and occupancy grid maps.
