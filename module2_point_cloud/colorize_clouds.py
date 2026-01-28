@@ -1,3 +1,4 @@
+"""Point cloud colorization from RGB camera projections."""
 #!/usr/bin/env python3
 """
 RoboVision-3D Module 2: Point Cloud Colorization
