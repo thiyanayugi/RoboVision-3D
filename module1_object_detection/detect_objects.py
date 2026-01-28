@@ -35,6 +35,11 @@ from sklearn.cluster import DBSCAN
 PointCloud = np.ndarray  # Nx3 array of 3D points
 BoundingBox = List[float]  # [x_min, y_min, x_max, y_max]
 
+# Clustering constants
+DBSCAN_EPS_METERS = 0.3  # Maximum distance (meters) between detections of the same object
+DBSCAN_MIN_SAMPLES = 1   # Minimum cluster size (1 ensures all detections are assigned)
+MIN_POINTS_PER_DETECTION = 10  # Minimum LiDAR points required for a valid detection
+
 # Define SynchronizedFrame class for pickle compatibility
 class SynchronizedFrame:
     """Container for synchronized sensor data from a single timestamp"""
@@ -402,7 +407,7 @@ def merge_detections_by_clustering(detections_with_points):
         # Cluster detection centers using DBSCAN (Density-Based Spatial Clustering)
         # eps=0.3 means detections within 30cm are considered the same object
         # min_samples=1 ensures all detections are assigned to a cluster
-        clustering = DBSCAN(eps=0.3, min_samples=1).fit(centers)
+        clustering = DBSCAN(eps=DBSCAN_EPS_METERS, min_samples=DBSCAN_MIN_SAMPLES).fit(centers)
 
         # Merge all detections in each cluster
         for cluster_id in set(clustering.labels_):
