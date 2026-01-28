@@ -1,3 +1,4 @@
+"""Visualization utilities for object detection results."""
 #!/usr/bin/env python3
 """
 Visualize Object Detections on Map
