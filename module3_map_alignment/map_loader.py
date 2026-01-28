@@ -77,7 +77,10 @@ class MapLoader:
         image = cv2.imread(self.pgm_path, cv2.IMREAD_GRAYSCALE)
         
         if image is None:
-            raise ValueError(f"Failed to load image: {self.pgm_path}")
+            raise ValueError(
+                f"Failed to load image: {self.pgm_path}. "
+                f"Ensure the file is a valid PGM image and not corrupted."
+            )
         
         # Create MapData object
         map_data = MapData(
