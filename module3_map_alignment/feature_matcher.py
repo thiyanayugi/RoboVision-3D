@@ -61,8 +61,8 @@ class FeatureMatcher:
         self.detector = self._create_detector()
         self.matcher = self._create_matcher()
         
-    def _create_detector(self):
-        """Create feature detector based on type"""
+    def _create_detector(self) -> cv2.Feature2D:
+        """Create feature detector based on type."""
         if self.detector_type == 'ORB':
             return cv2.ORB_create(nfeatures=2000)
         elif self.detector_type == 'SIFT':
@@ -72,8 +72,8 @@ class FeatureMatcher:
         else:
             raise ValueError(f"Unknown detector type: {self.detector_type}")
     
-    def _create_matcher(self):
-        """Create feature matcher"""
+    def _create_matcher(self) -> cv2.BFMatcher:
+        """Create feature matcher."""
         if self.detector_type == 'ORB':
             # Use Hamming distance for binary descriptors
             return cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=False)
