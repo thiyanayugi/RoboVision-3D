@@ -39,6 +39,9 @@ TARGET_CLASSES = {
     'tv': 62,  # Sometimes on shelves
 }
 
+# Default confidence threshold for YOLO detections
+DEFAULT_CONFIDENCE_THRESHOLD = 0.3
+
 # Simplified mapping for our challenge
 CLASS_MAPPING = {
     65: 'bathtub',
