@@ -18,6 +18,8 @@ Usage:
     python run_yolo_detection.py office
 """
 
+from typing import Dict, List, Optional
+
 import json
 import pickle
 from pathlib import Path
