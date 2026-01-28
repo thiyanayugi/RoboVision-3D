@@ -106,3 +106,5 @@ surveys:
   - bathroom
   - office
 
+
+# Type reference: All distance values in meters, angles in radians
