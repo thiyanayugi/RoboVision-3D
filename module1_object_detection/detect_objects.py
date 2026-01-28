@@ -124,7 +124,9 @@ def extract_bbox_points(frame: SynchronizedFrame, bbox: list) -> np.ndarray:
         return None
     
     points_in_bbox = []
-    
+
+    # TODO: Vectorize this loop using NumPy broadcasting for better performance
+    # Currently iterates point-by-point which is slow for large clouds
     for point in points_lidar:
         lidar_x, lidar_y, lidar_z = point
         
