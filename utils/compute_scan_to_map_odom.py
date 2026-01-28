@@ -117,8 +117,9 @@ class ScanToMapMatcher:
             if 0 <= mx < self.map.width and 0 <= my < self.map.height:
                 # Score based on distance to occupied cells
                 # Lower distance = better match
+                # TODO: Make the sigma parameter (2.0) configurable
                 dist = self.dist_transform[my, mx]
-                score += np.exp(-dist / 2.0)  # Gaussian falloff
+                score += np.exp(-dist / 2.0)  # Gaussian falloff with sigma=2.0
                 valid_points += 1
         
         if valid_points == 0:
