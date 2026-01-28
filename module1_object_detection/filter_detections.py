@@ -84,6 +84,7 @@ def calculate_quality_score(det: dict) -> float:
     num_points = det.get('num_points', 0)
     num_observations = det.get('num_observations', 1)
     
+    # FIXME: Consider making these weights configurable via function parameters
     # Weighted quality score combining multiple reliability metrics
     # Weights: 40% confidence, 50% observations, 10% point count
     # Observations are most important for reducing false positives
