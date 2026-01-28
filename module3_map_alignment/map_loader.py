@@ -1,3 +1,4 @@
+"""Utilities for loading and preprocessing occupancy grid maps."""
 #!/usr/bin/env python3
 """
 Map Loader Module for RoboVision-3D Module 3
