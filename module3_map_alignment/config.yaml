@@ -90,3 +90,5 @@ output:
   merged_map_gray: "whole_aligned_map_gray.pgm"
   merged_yaml: "whole_aligned_map.yaml"
 
+
+# Type reference: Coordinates in pixels, angles in degrees
