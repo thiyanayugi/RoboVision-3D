@@ -94,6 +94,7 @@ def run_detection_on_image(model, image_path: Path, confidence_threshold: float 
     Returns:
         List of detections
     """
+    # TODO: Add device parameter to support GPU inference (device='cuda')
     # Run inference
     results = model(str(image_path), verbose=False)
     
