@@ -36,8 +36,8 @@ class AlignmentResult:
         self.reprojection_error = reprojection_error
         self.method = method
         
-    def to_dict(self) -> Dict:
-        """Convert to dictionary for YAML export"""
+    def to_dict(self) -> Dict[str, object]:
+        """Convert to dictionary for YAML export."""
         return {
             'transform': {
                 'translation': {
