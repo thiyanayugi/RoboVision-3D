@@ -51,6 +51,12 @@ CAMERA_FY = 527.2972398956961
 CAMERA_CX = 658.8206787109375
 CAMERA_CY = 372.25787353515625
 
+# Depth filtering threshold (meters) - points closer than this are behind the camera
+MIN_DEPTH_THRESHOLD = 0.1
+
+# Voxel downsampling resolution (meters) for output point cloud
+VOXEL_SIZE = 0.01
+
 
 class PointCloudColorizer:
     """
@@ -141,7 +147,7 @@ class PointCloudColorizer:
         points_camera = self.transform_lidar_to_camera(points_lidar)
         
         # Filter points behind camera
-        valid_depth = points_camera[:, 2] > 0.1
+        valid_depth = points_camera[:, 2] > MIN_DEPTH_THRESHOLD
         points_camera = points_camera[valid_depth]
         
         if len(points_camera) == 0:
@@ -278,7 +284,7 @@ class PointCloudColorizer:
         # Apply voxel downsampling to reduce file size and remove redundant points
         # 1cm voxel size provides good balance between detail and file size
         print(f"   Downsampling (voxel size = 0.01m)...")
-        pcd = pcd.voxel_down_sample(voxel_size=0.01)
+        pcd = pcd.voxel_down_sample(voxel_size=VOXEL_SIZE)
 
         print(f"   Points after downsampling: {len(pcd.points):,}")
 
