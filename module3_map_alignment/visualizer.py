@@ -5,6 +5,8 @@ Visualizer Module for RoboVision-3D Module 3
 Creates visualizations of map alignment results
 """
 
+import logging
+
 import cv2
 import numpy as np
 import yaml
@@ -12,6 +14,8 @@ import os
 from typing import Tuple, Optional
 from map_loader import MapData
 from aligner import AlignmentResult
+
+logger = logging.getLogger(__name__)
 
 
 class Visualizer:
