@@ -103,7 +103,7 @@ class ScanToMapMatcher:
         
         return np.column_stack([x_world, y_world])
     
-    def score_pose(self, scan_data: dict, pose: Pose2D) -> float:
+    def score_pose(self, scan_data: Dict, pose: Pose2D) -> float:
         """Score how well a scan matches the map at given pose"""
         points = self.scan_to_points(scan_data, pose)
         
@@ -126,7 +126,7 @@ class ScanToMapMatcher:
         
         return score / valid_points
     
-    def match_scan(self, scan_data: dict, initial_pose: Pose2D,
+    def match_scan(self, scan_data: Dict, initial_pose: Pose2D,
                    search_window: float = 0.5, angle_window: float = 0.3,
                    resolution: float = 0.05) -> Pose2D:
         """
