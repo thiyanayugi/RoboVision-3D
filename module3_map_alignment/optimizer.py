@@ -1,3 +1,4 @@
+"""Optimization routines for map alignment refinement."""
 #!/usr/bin/env python3
 """
 Advanced optimization with rotation, scale, and translation search
