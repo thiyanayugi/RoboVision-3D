@@ -111,6 +111,7 @@ def compute_wall_alignment_score(map1_img, map2_img, transform_matrix):
                    iou * 500.0 +                # Occupied IoU
                    balance_score * 1000.0)     # Spatial balance
 
+    # FIXME: Investigate root cause of NaN scores instead of silently returning 0
     # Final NaN check
     if np.isnan(total_score) or np.isinf(total_score):
         return 0.0
