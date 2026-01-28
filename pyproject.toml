@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "robovision-3d"
+version = "1.0.0"
+description = "Computer vision and robotics system for indoor mapping and 3D reconstruction"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Thiyanayugi Mariraj"}]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
