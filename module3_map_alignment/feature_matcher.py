@@ -1,3 +1,4 @@
+"""Feature extraction and matching for map alignment."""
 #!/usr/bin/env python3
 """
 Feature Matcher Module for RoboVision-3D Module 3
