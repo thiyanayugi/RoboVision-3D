@@ -1,3 +1,4 @@
+"""Synchronize multi-sensor data streams by timestamp."""
 #!/usr/bin/env python3
 """
 Synchronize sensor data from multiple sources by timestamp.
