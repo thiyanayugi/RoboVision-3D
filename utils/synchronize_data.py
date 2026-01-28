@@ -36,7 +36,7 @@ class SynchronizedFrame:
     pointcloud_path: str
 
 
-def load_timestamps_from_directory(directory: Path, extension: str) -> Dict[int, Path]:
+def load_timestamps_from_directory(directory: Path, extension: str = ".npy") -> Dict[int, Path]:
     """
     Load all files from a directory and extract timestamps from filenames.
     
