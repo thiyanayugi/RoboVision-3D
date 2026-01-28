@@ -1,3 +1,4 @@
+"""Module for object detection using YOLOv8 with depth estimation."""
 #!/usr/bin/env python3
 """
 Challenge 1: Object Detection and Localization
