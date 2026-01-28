@@ -1,3 +1,4 @@
+"""Filter and refine raw object detections with spatial clustering."""
 #!/usr/bin/env python3
 """
 Filter Object Detections
